@@ -1,0 +1,21 @@
+.cardItem {
+  display: flex;
+  flex-direction: column;
+}
+.cardItem span{
+   font-size: 15px;
+   color: #676565;
+ }
+.cardItemFooter{
+  margin-top: 15px;
+  display: flex;
+  justify-content: space-between;
+}
+.cardItemFooter span{
+  font-size: 12px;
+}
+.cardItemContainer{
+  width: 60%;
+  margin: 10px auto;
+}
+
